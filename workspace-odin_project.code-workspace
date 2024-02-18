@@ -7,5 +7,7 @@
 			"path": "../odin-project_css-exercises"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "odin-project_css-exercises"
+	}
 }
