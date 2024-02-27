@@ -1,5 +1,5 @@
 * {
-    border: 1px solid #3b032d;
+    border: 0px solid #3b032d;
     background-color: #dfd1c0;
 }
 .title {
@@ -20,6 +20,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 10px;
 }
 .link {
     color: #2e0627;
@@ -48,4 +49,42 @@ button {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+}
+.recipe {
+    border-radius: 8px;
+    border: none;
+    background-color: #b18154;
+    color: white;
+    font-size: 18px;
+    padding-top: .1em;
+    padding-bottom: .1em;
+    padding-left: 15em;
+    padding-right: 15em;
+    text-align: center;
+    margin: 1em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.side, .recipe-image {
+    display: inline-block;
+    vertical-align: top;
+}
+.side {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    background-color: #d6c9b8;
+}
+li {
+    background-color: inherit;
+}
+h4 {
+    background-color: inherit;
+}
+h3 {
+    background-color: inherit;
+}
+p {
+    background-color: inherit;
 }
