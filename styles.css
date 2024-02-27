@@ -75,6 +75,8 @@ button {
     vertical-align: top;
     width: 50%;
     background-color: #d6c9b8;
+    margin-left: auto;
+    margin-right: auto;
 }
 li {
     background-color: inherit;
